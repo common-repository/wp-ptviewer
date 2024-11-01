@@ -1,0 +1,17 @@
+.ptviewer {
+	margin: 5px;
+	padding: 5px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+.ptviewer applet {
+}
+
+.ptviewer .caption {
+	margin-top: 5px;
+}
+
+.ptviewer .errors {
+	color: red;
+}
